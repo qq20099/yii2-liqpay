@@ -19,7 +19,7 @@
         "psr-4": {
             "qq20099\\liqpay\\": ""
         }
-    }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
