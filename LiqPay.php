@@ -126,7 +126,7 @@ class LiqPay extends InputWidget
             (
                 $autosubmit ?
                 $this->autoSubmit($formId) :
-                Html::input('image', 'btn_text', null, ['src'=>'//static.liqpay.com/buttons/p'.$liqpayBtnNum.$lang.'.radius.png'])
+                Html::input('image', 'btn_text', null, ['src'=>'//static.liqpay.ua/buttons/p'.$liqpayBtnNum.$lang.'.radius.png'])
             ).
             Html::endForm();
         return $form;
