@@ -3,7 +3,7 @@
     "description": "SDK for Liqpay",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","liqpay","pay"],
-    "license": "OSL 3.0",
+    "license": "MIT",
     "homepage": "https://github.com/liqpay/sdk-php",
     "authors": [
         {
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-main": "2.0.x-dev"
         }
     }
 }
