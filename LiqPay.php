@@ -17,11 +17,11 @@
  *
  * EXTENSION INFORMATION
  *
- * LIQPAY API       https://www.liqpay.ua/documentation/ru 
+ * LIQPAY API       https://www.liqpay.ua/documentation/ru
  *
  */
 
-namespace delagics\liqpay;
+namespace qq20099\liqpay;
 
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
