@@ -19,5 +19,5 @@ composer require qq20099/yii2-liqpay
 or add
 
 ```json
-"qq20099/yii2-liqpay": "~1.0.0"
+"qq20099/yii2-liqpay": "*"
 ```
